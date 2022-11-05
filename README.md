@@ -1,4 +1,4 @@
-### Hi 👋 Welcome to my Github profile☕, my name is Youssouf A.
+### Hi 👋 Welcome to my Github profile☕
 
 
 - 🤔 I’m looking for an internship in full stack development and java web developer
