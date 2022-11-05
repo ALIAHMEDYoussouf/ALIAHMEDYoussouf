@@ -2,6 +2,6 @@
 
 
 - 🤔 I’m looking for an internship in full stack development and java web developer
-- 💬 Ask me about Ask my contents
+- 💬 Ask me about my contents
 - 📫 How to reach me: youssoufali238@gmail.com
 
