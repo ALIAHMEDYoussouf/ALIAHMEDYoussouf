@@ -62,7 +62,12 @@
 
 
 🔥 Mes statistiques GitHub :
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical)](https://github.com/ALIAHMEDYoussouf)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ALIAHMEDYoussouf&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naguib-med&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Youssouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical)
+
 
 
 - 📫 How to reach me: youssoufali238@gmail.com
