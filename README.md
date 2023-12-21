@@ -35,7 +35,13 @@
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks, codechef, hackerrank, hackerearth, and I read tech articles.
 
----
+- **GeeksforGeeks** ![GeeksforGeeks Icon](https://media.geeksforgeeks.org/gfg-gg-logo.svg): Learning and practicing computer science skills. 
+
+- **CodeChef** ![CodeChef Icon](https://cdn.codechef.com/images/cc-logo.svg): Competitive programming and problem-solving. 
+
+- **HackerRank** ![HackerRank Icon](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png): Coding challenges and technical assessments. 
+
+- **HackerEarth** ![HackerEarth Icon](https://static-fastly.hackerearth.com/newton/static/images/he-header-logo.svg): Competitive coding challenges and hackathons.
 
 <h2>🛠️ Languages and Tools:</h2>
 
