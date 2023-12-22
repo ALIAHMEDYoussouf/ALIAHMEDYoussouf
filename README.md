@@ -26,7 +26,7 @@
 
 <h2>:man_technologist: About Me</h2>
 
-<h2>I'm a full stack web developer with a passion for building beautiful, responsive, and scalable web applications</h2>
+## I'm a full stack web developer with a passion for building beautiful, responsive, and scalable web applications
 
 <h3>I'm from France, Lyon 🇫🇷</h3>
 
