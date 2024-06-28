@@ -33,7 +33,6 @@
 <h3>🎓 I'm currently studying Computer Science at the University of Lyon</h3>
 
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks, codechef, hackerrank, hackerearth, and I read tech articles.
 
 <h2>🛠️ Languages and Tools:</h2>
 
