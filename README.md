@@ -6,8 +6,9 @@
   <a href="https://www.linkedin.com/in/youssouf-ali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ALIAHMEDYoussouf&style=flat-square&color=blue" alt="views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=ALIAHMEDYoussouf&style=for-the-badge&color=blue" alt="views counter"/>
 </div>
+
 
 ---
 
