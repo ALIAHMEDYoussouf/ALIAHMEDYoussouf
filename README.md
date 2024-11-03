@@ -1,7 +1,5 @@
 <h1 align="center" style="font-weight: bold;">
-
-  Hello! <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px"/><br>
-    Welcome to My GitHub Profile! 
+  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px"/> Hello! &nbsp;|&nbsp; Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="180" style="border-radius: 10px;"/>
@@ -17,10 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=ALIAHMEDYoussouf&style=flat-square&color=blue" alt="views counter"/>
 </div>
 
-<h1 align="center">
-  Hello!
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px"/>
-</h1>
+
 
 
 ---
