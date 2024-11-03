@@ -1,17 +1,18 @@
-<h1 style="font-weight: bold; text-align: center;">Welcome to My GitHub Profile!</h1>
+<h1 align="center" style="font-weight: bold;">Welcome to My GitHub Profile!</h1>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="180" style="border-radius: 10px;"/>
 </div>
 
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/youssouf-ali/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Ajoutez ici d'autres badges selon vos besoins -->
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ALIAHMEDYoussouf&style=flat-square&color=blue" alt="views counter"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ALIAHMEDYoussouf&style=flat-square&color=blue" alt="views counter"/>
+</div>
 
 <h1 align="center">
   Hello!
@@ -24,19 +25,20 @@
 
 ---
 
-<h2>:man_technologist: About Me</h2>
+<h2 align="center">:man_technologist: About Me</h2>
 
-## I'm a full stack web developer with a passion for building beautiful, responsive, and scalable web applications
+<p align="center">
+  🎓 I'm currently studying Computer Science at <strong>Université Gustave Eiffel</strong> in Île-de-France, Paris.<br>
+  💻 Full stack web developer passionate about building beautiful, responsive, and scalable web applications.<br>
+  🌱 Interested in technical content writing.<br>
+  📍 Based in Paris, France 🇫🇷
+</p>
 
-<h3>I'm from France, Lyon 🇫🇷</h3>
+---
 
-<h3>🎓 I'm currently studying Computer Science at the University of Lyon</h3>
+<h2 align="center">🛠️ Languages and Tools:</h2>
 
-- :seedling: Exploring Technical Content Writing.
-
-<h2>🛠️ Languages and Tools:</h2>
-
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -53,27 +55,37 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="ASP.NET" alt="ASP.NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-  <!-- Ajoutez Vue.js, Angular et React ici -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+<h2 align="center">🔥 GitHub Stats:</h2>
 
---- 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ALIAHMEDYoussouf&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIAHMEDYoussouf&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+</div>
 
-🔥 Mes statistiques GitHub :
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALIAHMEDYoussouf&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naguib-med&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Youssouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical)
-
-
-<h2>:email: How to reach me:</h2>
-<p>
+<h2 align="center">:email: How to reach me:</h2>
+<p align="center">
   <a href="mailto:youssoufali238@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
