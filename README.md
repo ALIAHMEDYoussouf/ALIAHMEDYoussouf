@@ -1,40 +1,28 @@
-<h1 align="center" style="font-weight: bold;">
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px"/> Hello! &nbsp;|&nbsp; Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px"/> Hello! | Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="180" style="border-radius: 10px;"/>
-</div>
 
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/youssouf-ali/" target="_blank"> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/youssouf-ali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ALIAHMEDYoussouf&style=flat-square&color=blue" alt="views counter"/>
 </div>
 
+---
 
+### 👨‍💻 About Me
 
+🎓 Studying Master 2 (MSc) in Computer Science (2024-2025) at <strong>Université Gustave Eiffel</strong>, Paris, France.<br>
+💻 Full stack web developer focused on building responsive, scalable applications.<br>
+📍 Based in Paris, France 🇫🇷
 
 ---
 
-<h2 align="center">:man_technologist: About Me</h2>
-
-<p align="center">
-  🎓 I'm currently studying Computer Science at <strong>Université Gustave Eiffel</strong> in Île-de-France, Paris.<br>
-  💻 Full stack web developer passionate about building beautiful, responsive, and scalable web applications.<br>
-  🌱 Interested in technical content writing.<br>
-  📍 Based in Paris, France 🇫🇷
-</p>
-
----
-
-<h2 align="center">🛠️ Languages and Tools:</h2>
+### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -57,31 +45,16 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Stats:</h2>
+### 🔥 GitHub Stats
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ALIAHMEDYoussouf&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIAHMEDYoussouf&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ALIAHMEDYoussouf&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALIAHMEDYoussouf&layout=compact&theme=radical)
+![Youssouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALIAHMEDYoussouf&show_icons=true&theme=radical)
 
 ---
 
-<h2 align="center">:email: How to reach me:</h2>
-<p align="center">
-  <a href="mailto:youssoufali238@gmail.com">
+### 📫 How to Reach Me
+
+<a href="mailto:youssoufali238@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</a>
