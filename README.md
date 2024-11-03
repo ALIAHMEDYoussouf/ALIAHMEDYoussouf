@@ -19,9 +19,6 @@
   <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://i.gifer.com/6M8G.gif" width="600" height="300"/>
-</div>
 
 ---
 
