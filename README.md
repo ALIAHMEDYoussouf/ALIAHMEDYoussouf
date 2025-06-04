@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px"/> Hello! | Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingénieur+Logiciel+et+DevOps;Étudiant+Master+2+Informatique&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
+<div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="180" style="border-radius: 10px;"/>
 </div>
 
